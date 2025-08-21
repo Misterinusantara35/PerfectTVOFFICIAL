@@ -335,6 +335,11 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400220466.ts
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/355371.ts
 
+#EXTINF:-1 tvg-id="ZEE TV" ch-number="" tvg-name="ZEE TV" group-title="INDIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zee_TV_Logo_2017.svg/2560px-Zee_TV_Logo_2017.svg.png",ZEE TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187372.ts
+
 ======movie======
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
