@@ -321,10 +321,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/38314.ts
 
-#EXTINF:-1 tvg-id="SONY INTERTAIMENT " ch-number="" tvg-name="SONY INTERTAIMENT" group-title="INDIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",SONY TV
+#EXTINF:-1 tvg-id="SONY INTERTAIMENT" ch-number="" tvg-name="SONY INTERTAIMENT" group-title="INDIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",SONY TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400220466.ts
+
+#EXTINF:-1 tvg-id="SUNTV" ch-number="" tvg-name="SUNTV" group-title="INDIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",SUNTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+http://cool365.xyz:900/live/4160189881/DB4ACD54/355371.ts
 
 ======movie======
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
