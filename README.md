@@ -294,7 +294,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #=======india=======
 
-
 #EXTINF:-1 tvg-id="Vinmeen" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png", Vinmeen 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
@@ -318,15 +317,18 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
+
 #EXTINF:-1 tvg-id="SONY ASIA " ch-number="" tvg-name="SONY ASIA" group-title="INDIAN"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435",SONY ASIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/38314.ts
 
+
 #EXTINF:-1 tvg-id="SONY INTERTAIMENT" ch-number="" tvg-name="SONY INTERTAIMENT" group-title="INDIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",SONY TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400220466.ts
+
 
 #EXTINF:-1 tvg-id="SUNTV" ch-number="" tvg-name="SUNTV" group-title="INDIAN"  tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png ",SUNTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
