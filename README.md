@@ -326,7 +326,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/38314.ts
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400220466.ts
 
-#EXTINF:-1 tvg-id="SUNTV" ch-number="" tvg-name="SUNTV" group-title="INDIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",SUNTV
+#EXTINF:-1 tvg-id="SUNTV" ch-number="" tvg-name="SUNTV" group-title="INDIAN"  tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png ",SUNTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/355371.ts
