@@ -652,7 +652,7 @@ http://gotit14.xyz/live/2F635BX/ZJX02CY/71433.ts
 #EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,205 Ceria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-http://linears2-playback.astro.com.my/vsg/41PG56W2Wcs4icY2g9UA0L7Ze63PjNvnqR9tWA2AFvTec=zkRV/dash-wv/jitp-linearwm/2606/default_ott.mpd
+http://linears2-playback.astro.com.my/vsg/41PG56W2Wcs4icY2g9UA0L7ZIRM8sjQhkF3fwqaeQE9kY=e6g6/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 #EXTINF:-1 player-buffer="6" group-logo="" group-title="KIDS" tvg-id="555.unifi" ch-number="555" tvg-logo="https://get.perfecttv.net/logo/cartoonito.png" group-logo="", 206 Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
