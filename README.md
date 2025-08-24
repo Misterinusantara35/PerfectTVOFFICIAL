@@ -340,6 +340,11 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/355371.ts
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187372.ts
 
+#EXTINF:-1 tvg-id=" 7 BIOSKOP" ch-number="" tvg-name="7 BIOSKOP" group-title="INDIAN"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Bioskop_2013.png/revision/latest?cb=20240313195335 ",7 BIOSKOP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/zott-1024-175603503.ts
+
 ======movie======
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
