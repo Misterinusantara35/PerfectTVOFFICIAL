@@ -800,7 +800,7 @@ http://143.198.90.33:8080/live/Erny112/Jtv0987/4722.m3u8?token=GEYOU0ZZQVsaA1cGA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+http://128.199.154.18:8080/live/Erny112/Jtv0987/4723.m3u8?token=GEYOU0ZZQVsaAwEHDFAEBgJRXwFXUwBbB1YKVgEOVgpSV1ADBwJUUgAQGhJLEUQBUFo5UQVECVYBAQBNEkxHXBE7D1YXC0FWDQIBBhpJFBBYWgMaW1YfQEZaV0MKGwUAWlVWEBkTBhlMV0ReWQlpAFRBD1sERAkMQ19fTRJWWmYHAQtTW1VBWxoCFBwaDEUUEw1EdQAeWhEWcUEOUV1WWA0ARmFRX00jUFYUHBoHXxBDVhJdQ1wRUAYGC0McG1dWFgoSQEwTWUN1axQcGgBOEFRZFVEOCBFYFF4AFAgbGBsKFzlAUEIXE11TW1VKRwxGARVKGgwHSz1VXF0PVVpAUAwKFRAPE1JDFBBbX1YMQgtDaBZRBUQJQA4DC1cSRA==
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",805 EPL FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
