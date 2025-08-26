@@ -809,7 +809,7 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/156.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 ##KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
-http://206.189.80.218:8080/live/Erny112/Jtv0987/175.m3u8?token=GEYOU0ZZQVsaBQEBD1AHBlVTVAECX1JaBgQFBwRfDQ9aU1ICBVdSWAEQGhJLEUQBUFo5UQVECVMBBh9DRUpRSzwNAhAPE1RUCAUAEhRHQg1cUkQCUUoREl9XEVsSCAQOUVZEHhdUGxVdQFhRVDpSAUdeBV1DXF0XWl8fQ19Xa10GCQdcURNZQwgQGhJRFkZGCxUrWRkPQEJ0QVwAVFtVVwdENVZbHyEJXBAaEloMQhZQQwMaW0QBUgIGEU0SWltMDRAUSxcLQSxhEBoSXR1CAV9ED1cPRAlAWwBGWRIVFlAQOxRXRkURBFlfU0IaXxRUExtEVQAebAFZXV0EU01dVg0XRAgXAEFNGl9ZXlERWRZuRw9cQ1wRUAYFBVcSRA==
+https://zozotv.xyz:443/live/faizal1998/zoz161/157.ts
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",806 EPL3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
