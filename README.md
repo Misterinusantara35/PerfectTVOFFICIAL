@@ -763,12 +763,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
 
-
 #=================== Sport FHD Only =============================================
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/mutv.png",800 MUTV
-https://get.perfecttv.net/mutv.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -784,8 +779,7 @@ http://152.42.178.116:8080/live/Erny112/Jtv0987/1023.m3u8?token=GEYOU0ZZQVsaBFcB
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer 
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd
+ http://128.199.183.132:8080/live/Erny112/Jtv0987/1025.m3u8?token=GEYOU0ZZQVsaCgQECl1QUlJVVgtYUgFRBgtRUQMPUV0FXQUDB1RbVggQGhJLEUQBUFo5UQVECVMGAQZNEkxHXBE7D1YXC0FWDQIBBhpJFBBYWgMaW1YfQEZaV0MKGwYJVlBQEBkTBhlMV0ReWQlpAFRBD1sERAkMQ19fTRJWWmYHAQtTW1VBWxoCFBwaDEUUEw1EdQAeWhEWcUEOUV1WWA0ARmFRX00jUFYUHBoHXxBDVhJdQ1wRUwAGBkMcG1dWFgoSQEwTWUN1axQcGgBOEFRZFVEOCBFYFF4AFAgbGBsKFzlAUEIXE11TW1VKRwxGARVKGgwHSz1VXF0PVVpAUAwKFRAPE1JDFBBbX1YMQgtDaBZRBUQJQA4EBlQSRA==
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
