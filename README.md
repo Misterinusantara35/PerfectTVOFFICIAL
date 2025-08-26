@@ -308,7 +308,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="116.astro" tvg-logo="https://get.perfecttv.net/logo/colorhindi.png" ,189 Colors Hindi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=colorhindi
+https://zozotv.xyz:443/live/faizal1998/zoz161/401.ts
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="222.astro" tvg-logo="https://get.perfecttv.net/logo/colortamil.png" ,190 Colors Tamil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
