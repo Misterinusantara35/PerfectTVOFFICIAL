@@ -835,7 +835,7 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="AstroPremierLeague" ch-number="811" group-title="⚽ SPORTS FHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League
-http://jomtv.vip:2082/live/Erny112/Jtv0987/173.ts
+http://128.199.154.18:8080/live/Erny112/Jtv0987/171.m3u8?token=GEYOU0ZZQVsaBgIBC1VQAQQCU1lYXlIDUwUDUFUAAFpXXFJUBgJUBwEQGhJLEUQBUFo5UQVECVMBAh9DRUpRSzwNAhAPE1RUCAUAEhRHQg1cUkQCUUoREl9XEVsSCwEPVVREHhdUGxVdQFhRVDpSAUdeBV1DXF0XWl8fQ19Xa10GCQdcURNZQwgQGhJRFkZGCxUrWRkPQEJ0QVwAVFtVVwdENVZbHyEJXBAaEloMQhZQQwMaW0QHVgcGEU0SWltMDRAUSxcLQSxhEBoSXR1CAV9ED1cPRAlAWwBGWRIVFlAQOxRXRkURBFlfU0IaXxRUExtEVQAebAFZXV0EU01dVg0XRAgXAEFNGl9ZXlERWRZuRw9cQ1wRWgYFAUNN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
