@@ -801,7 +801,7 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/4557.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
 ##KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-http://139.59.248.147:8080/live/Erny112/Jtv0987/173.m3u8?token=GEYOU0ZZQVsaUVcFAQdUVgNSAgEEVQFWUlUHUgFYBlpUXAUKDABWAAEQGhJLEUQBUFo5UQVECVMBAB9DRUpRSzwNAhAPE1RUCAUAEhRHQg1cUkQCUUoREl9XEVsSCwIKV1ZEHhdUGxVdQFhRVDpSAUdeBV1DXF0XWl8fQ19Xa10GCQdcURNZQwgQGhJRFkZGCxUrWRkPQEJ0QVwAVFtVVwdENVZbHyEJXBAaEloMQhZQQwMaW0QBUgYEEU0SWltMDRAUSxcLQSxhEBoSXR1CAV9ED1cPRAlAWwBGWRIVFlAQOxRXRkURBFlfU0IaXxRUExtEVQAebAFZXV0EU01dVg0XRAgXAEFNGl9ZXlERWRZuRw9cQ1wRWwECERw=
+https://zozotv.xyz:443/live/faizal1998/zoz161/156.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleague2fhd.png",806 EPL2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -818,7 +818,6 @@ http://206.189.80.218:8080/live/Erny112/Jtv0987/175.m3u8?token=GEYOU0ZZQVsaBQEBD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://206.189.80.218:8080/live/Erny112/Jtv0987/175.m3u8?token=GEYOU0ZZQVsaBQEBD1AHBlVTVAECX1JaBgQFBwRfDQ9aU1ICBVdSWAEQGhJLEUQBUFo5UQVECVMBBh9DRUpRSzwNAhAPE1RUCAUAEhRHQg1cUkQCUUoREl9XEVsSCAQOUVZEHhdUGxVdQFhRVDpSAUdeBV1DXF0XWl8fQ19Xa10GCQdcURNZQwgQGhJRFkZGCxUrWRkPQEJ0QVwAVFtVVwdENVZbHyEJXBAaEloMQhZQQwMaW0QBUgIGEU0SWltMDRAUSxcLQSxhEBoSXR1CAV9ED1cPRAlAWwBGWRIVFlAQOxRXRkURBFlfU0IaXxRUExtEVQAebAFZXV0EU01dVg0XRAgXAEFNGl9ZXlERWRZuRw9cQ1wRUAYFBVcSRA==
-
 
 #EXTINF:-1 tvg-id="ASTRO GRANDSTAND" tvg-name="ASTRO GRANSTAND FHD" ch-number="810" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="⚽ SPORTS FHD",810 Astro Grandstand
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
