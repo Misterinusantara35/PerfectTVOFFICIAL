@@ -793,7 +793,7 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/791.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-http://128.199.154.18:8080/live/Erny112/Jtv0987/4723.m3u8?token=GEYOU0ZZQVsaAQMGXAcEUwUGB1wFVAEBDgYEUFRfBgEGXVAHBgEABA4QGhJLEUQBUFo5UQVECVYBAQBNEkxHXBE7D1YXC0FWDQIBBhpJFBBYWgMaW1YfQEZaV0MKGwUAWlVWEBkTBhlMV0ReWQlpAFRBD1sERAkMQ19fTRJWWmYHAQtTW1VBWxoCFBwaDEUUEw1EdQAeWhEWcUEOUV1WWA0ARmFRX00jUFYUHBoHXxBDVhJdQ1wRUAYGBUMcG1dWFgoSQEwTWUN1axQcGgBOEFRZFVEOCBFYFF4AFAgbGBsKFzlAUEIXE11TW1VKRwxGARVKGgwHSz1VXF0PVVpAUAwKFRAPE1JDFBBbX1YMQgtDaBZRBUQJQA4DC1cSRA==
+https://zozotv.xyz:443/live/faizal1998/zoz161/4557.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",805 EPL FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
