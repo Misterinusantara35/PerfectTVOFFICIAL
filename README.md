@@ -775,7 +775,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-http://152.42.178.116:8080/live/Erny112/Jtv0987/1023.m3u8?token=GEYOU0ZZQVsaBFcBCFUFVQMDUF5ZXwtXB1FXVwYJVQAAAAMKBQZbUVsQGhJLEUQBUFo5UQVECVMGAQBNEkxHXBE7D1YXC0FWDQIBBhpJFBBYWgMaW1YfQEZaV0MKGwIMV1JEHhdUGxVdQFhRVDpSAUdeBV1DXF0XWl8fQ19Xa10GCQdcURNZQwgQGhJRFkZGCxUrWRkPQEJ0QVwAVFtVVwdENVZbHyEJXBAaEloMQhZQQwMaW0QCVAcGEU0SWltMDRAUSxcLQSxhEBoSXR1CAV9ED1cPRAlAWwBGWRIVFlAQOxRXRkURBFlfU0IaXxRUExtEVQAebAFZXV0EU01dVg0XRAgXAEFNGl9ZXlERWRZuRw9cQ1wRUw8HClYSRA==
+#https://get.perfecttv.net/1080.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=arenafhd|authorization=Bearer 
+https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=arena
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -783,21 +784,22 @@ http://152.42.178.116:8080/live/Erny112/Jtv0987/1023.m3u8?token=GEYOU0ZZQVsaBFcB
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-http://128.199.183.132:8080/live/Erny112/Jtv0987/1025.m3u8?token=GEYOU0ZZQVsaCgQECl1QUlJVVgtYUgFRBgtRUQMPUV0FXQUDB1RbVggQGhJLEUQBUFo5UQVECVMGAQZNEkxHXBE7D1YXC0FWDQIBBhpJFBBYWgMaW1YfQEZaV0MKGwYJVlBQEBkTBhlMV0ReWQlpAFRBD1sERAkMQ19fTRJWWmYHAQtTW1VBWxoCFBwaDEUUEw1EdQAeWhEWcUEOUV1WWA0ARmFRX00jUFYUHBoHXxBDVhJdQ1wRUwAGBkMcG1dWFgoSQEwTWUN1axQcGgBOEFRZFVEOCBFYFF4AFAgbGBsKFzlAUEIXE11TW1VKRwxGARVKGgwHSz1VXF0PVVpAUAwKFRAPE1JDFBBbX1YMQgtDaBZRBUQJQA4EBlQSRA==
+#https://get.perfecttv.net/1080.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=arena2fhd|authorization=Bearer 
+https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=arena2fhd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-https://zozotv.xyz:443/live/faizal1998/zoz161/791.ts
+https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenabola2fhd.png",804 Arena Bola 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-https://zozotv.xyz:443/live/faizal1998/zoz161/4557.ts
+https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",805 EPL FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -805,7 +807,8 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/4557.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
 ##KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-https://zozotv.xyz:443/live/faizal1998/zoz161/156.ts
+#https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=epl1fhd 
+https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=epl1fhd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleague2fhd.png",806 EPL2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -813,7 +816,8 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/156.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 ##KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
-https://zozotv.xyz:443/live/faizal1998/zoz161/157.ts
+#https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=epl2fhd
+https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=epl2fhd
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",806 EPL3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
