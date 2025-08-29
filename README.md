@@ -291,8 +291,8 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=kbsworld
 
-#=======india=======
 
+#=======india=======
 
 #EXTINF:-1 tvg-id="Vinmeen" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png", Vinmeen 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -326,24 +326,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/38314.ts
 
-
 #EXTINF:-1 tvg-id="SONY INTERTAIMENT" ch-number="" tvg-name="SONY INTERTAIMENT" group-title="INDIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",SONY TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400220466.ts
-
 
 #EXTINF:-1 tvg-id="SUNTV" ch-number="" tvg-name="SUNTV" group-title="INDIAN"  tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png ",SUNTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/355371.ts
 
-
 #EXTINF:-1 tvg-id="ZEE TV" ch-number="" tvg-name="ZEE TV" group-title="INDIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zee_TV_Logo_2017.svg/2560px-Zee_TV_Logo_2017.svg.png",ZEE TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187372.ts
-
 
 #EXTINF:-1 tvg-id="RAJ DIGITAL PLUS" group-title="INDIAN" tvg-logo="https://www.slazzer.com/downloads/47cba05d-84ce-11f0-bc8a-07c6599f2f6d/1000586737_prev_ui.png", RAJ DIGITAL PLUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -351,13 +347,11 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/187372.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 
-
 #EXTINF:-1 tvg-id="TAMILAN TV" group-title="INDIAN" tvg-logo="https://www.slazzer.com/downloads/84abfbb1-84cf-11f0-bc8a-07c6599f2f6d/1000586738_prev_ui.png", TAMILAN TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="VAANAM TV" group-title="INDIAN" tvg-logo="https://www.vaanam.com.my/imgs/logo.png", VAANAM TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
