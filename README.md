@@ -2,12 +2,8 @@
 
 #=======MALAYSIA======
 
-#EXTINF:-1 tvg-id="KITA" ch-number="" tvg-name="KITA" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KITA_2025.png",KITA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-/dash-wv/linear/5166/default_ott.mpd HTTP/1.1
+
+#EXTINF:-1 tvg-id="KITA" ch-number="" tvg-name="KITA" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KITA_2025.png",KITA /dash-wv/linear/5166/default_ott.mpd HTTP/1.1
 User-Agent: Mozilla/5.0 (Linux; Android 15; SM-A055F Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.143 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_ott.mpd
 
