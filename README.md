@@ -1,11 +1,7 @@
 # PerfectTVOFFICIAL
 
+
 #=======MALAYSIA======
-
-
-#EXTINF:-1 tvg-id="KITA" ch-number="" tvg-name="KITA" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KITA_2025.png",KITA /dash-wv/linear/5166/default_ott.mpd HTTP/1.1
-User-Agent: Mozilla/5.0 (Linux; Android 15; SM-A055F Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.143 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
