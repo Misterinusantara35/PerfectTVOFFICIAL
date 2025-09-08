@@ -815,8 +815,10 @@ https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&chan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
-https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=bola1hd
+##KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=bola1hd
+https://linears2-playback.astro.com.my/vsg/41zeCPN5tsjmXgDffPUQw17ekpDO-B2BIyY_YMbo-jRNw=7B02/dash-wv/jitp-linearwm/5099/default_primary.mpd|user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -829,9 +831,10 @@ https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channe
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
-https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=bola2hd
-
+##KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=bola2hd
+https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMl3tL_xEMDN9bG1Bqhtt6nvg=cKNd/dash-wv/jitp-linearwm/5100/default_primary.mpd|user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenabola2fhd.png",804 Arena Bola 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -873,6 +876,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channe
 ##KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=epl2fhd
 https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=epl2fhd
+
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",806 EPL3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
