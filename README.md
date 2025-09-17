@@ -1095,3 +1095,48 @@ http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/53853.ts|user-agent=IPTVPROPlayer
 #EXTINF:-1 tvg-id="FUBO SPORTS NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Fubo_Sports_Network.png/revision/latest?cb=20250117231918", FUBO SPORTS NETWORK FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/473384.ts
+
+#======Movie Malay======
+
+#EXTINF:-1 tvg-id="" tvg-name="895-Martabat: Misi Berdarah (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgrRrDelt5BRYfNi454rbRK8wsP.jpg" group-title="▶ VOD MALAY",895-Martabat: Misi Berdarah (2025)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/4624.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="895-Martabat: Misi Berdarah (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgrRrDelt5BRYfNi454rbRK8wsP.jpg" group-title="▶ VOD MALAY",895-Martabat: Misi Berdarah (2025)(MultiResolution)
+https://get.perfecttv.net/okayru.mpd?id=10773849574095
+
+#EXTINF:-1 tvg-id="" tvg-name="896-Blood Brothers: Dragon's Embers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR6IwU2ZfVuzg3mzh06XwlsDiCR.jpg" group-title="▶ VOD MALAY",896-Blood Brothers: Dragon's Embers (2025)(MultiResolution)
+https://get.perfecttv.net/okayru.mpd?id=10770460904143
+
+#EXTINF:-1 tvg-id="" tvg-name="896-Blood Brothers: Dragon's Embers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR6IwU2ZfVuzg3mzh06XwlsDiCR.jpg" group-title="▶ VOD MALAY",896-Blood Brothers: Dragon's Embers (2025)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/4622.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="898-Babah (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUVhcxEPaTw8ns1Q7NgKGdy5ag4.jpg" group-title="▶ VOD MALAY",897-Bila Esok Ibu Tiada (2024)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/4589.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="898-Babah (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXkKcPshOZHdHgPvSvuYFmDGDFI.jpg" group-title="▶ VOD MALAY",898-Babah (2024)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/4587.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="899-Baik Punya Ah Long (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQKJV3euOct5stfRz9l0mpR08S2.jpg" group-title="▶ VOD MALAY",899-Baik Punya Ah Long (2024)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/4585.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="900-Pengabdi Setan 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hp3eaih3UxpAOUvgsFS9TvVpPD.jpg" group-title="▶ VOD MALAY",900-Pengabdi Setan 2 (2022)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2727.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="954-Memoir Seorang Guru (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvET11r3QLJ9UJAvWJM2PJBBWX9.jpg" group-title="▶ VOD MALAY",954-Memoir Seorang Guru (2024)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2728.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="955-Para Betina Pengikut Iblis : Part 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37nSfEMphDI4kdAv5lhH8AUsdGv.jpg" group-title="▶ VOD MALAY",955-Para Betina Pengikut Iblis : Part 2 (2024)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2729.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="903-Para Betina Pengikut Iblis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD MALAY",903-Para Betina Pengikut Iblis (2023)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2730.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="956-Abnormal: Buas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wU038xWl3m2mmrmAIaSrkWZj0ro.jpg" group-title="▶ VOD MALAY",956-Abnormal: Buas (2024)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2731.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="902-Mereka yang tak terlihat (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zdckRP04h97MnGPD2aRqitXwRk.jpg" group-title="▶ VOD MALAY",902-Mereka yang tak terlihat (2017)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2732.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="959-Pendekar Awang: Darah Indera Gajah (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3VfJM8sq0bqy01EdbSFislkY7x.jpg" group-title="▶ VOD MALAY",959-Pendekar Awang: Darah Indera Gajah (2024)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2733.mp4
+
