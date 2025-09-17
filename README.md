@@ -1268,3 +1268,6 @@ http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2788.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="930-Imaginur (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GDAe9i6HiFtRB1O5nCbUcGH4j0.jpg" group-title="▶ VOD MALAY",930-Imaginur (2023)
 http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2792.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="931-Coast Guard Malaysia: Ops Helang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3KJkSsMOLrqy8bDbYb0BLtM0SX.jpg" group-title="▶ VOD MALAY",931-Coast Guard Malaysia: Ops Helang (2023)
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2793.mp4
