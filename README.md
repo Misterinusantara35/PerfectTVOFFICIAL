@@ -685,12 +685,6 @@ http://gotit14.xyz/live/2F635BX/ZJX02CY/71433.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 https://get.perfecttv.net/1080ceria.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=ceria|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
-#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="KIDS" tvg-logo="https://get.perfecttv.net/logo/moonbug.png" ,207 Moonbug
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
-https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=moonbug
 
 #EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="616.astro" tvg-logo="https://get.perfecttv.net/logo/nickelodeon.png" group-logo="" , 208 Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
